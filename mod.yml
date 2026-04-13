@@ -1,0 +1,12 @@
+title: Vicennial Trace KH1
+originalAuthor: dallin1016
+description: 'Replaces Kingdom Key with Vicennial Trace, a KH 20th Anniversary Keyblade'
+assets:
+- name: remastered/xw_ex_5010.wpn/-9a40.cvbl
+  method: copy
+  source:
+  - name: xw_ex_5010.cvbl
+- name: remastered/xw_ex_5010.wpn/-9a40.cvbl
+  method: copy
+  source:
+  - name: -0.dds
